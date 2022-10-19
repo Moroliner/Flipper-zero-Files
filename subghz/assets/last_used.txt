@@ -1,0 +1,7 @@
+Filetype: Flipper SubGhz Last Setting File
+Version: 1
+Preset: AM650
+Frequency: 433920000
+Hopping: 0
+DetectRaw: 3
+Rssi: -72

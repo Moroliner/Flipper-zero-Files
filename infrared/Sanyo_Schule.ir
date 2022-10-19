@@ -1,0 +1,56 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Sanyo
+type: parsed
+protocol: NECext
+address: 33 00 00 00
+command: 00 FF 00 00
+# 
+name: Laut
+type: parsed
+protocol: NECext
+address: 33 00 00 00
+command: 09 F6 00 00
+# 
+name: Freeze
+type: parsed
+protocol: NECext
+address: 33 00 00 00
+command: 43 BC 00 00
+# 
+name: Zoom
+type: parsed
+protocol: NECext
+address: 33 00 00 00
+command: 01 FE 00 00
+# 
+name: Hdmi
+type: parsed
+protocol: NECext
+address: 33 00 00 00
+command: 37 C8 00 00
+# 
+name: Menu
+type: parsed
+protocol: NECext
+address: 33 00 00 00
+command: 1C E3 00 00
+# 
+name: Hoch
+type: parsed
+protocol: NECext
+address: 33 00 00 00
+command: 8C 73 00 00
+# 
+name: Runter
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 1332 127535 9037 4444 591 1642 590 1613 620 538 591 538 591 1642 591 1642 1721 538 590 539 590 538 591 539 590 538 591 538 591 538 591 538 591 538 591 1641 592 538 591 1641 592 1641 592 538 591 538 591 538 591 1642 591 538 591 1642 591 538 591 537 592 1641 592 1640 592 1640 592 537 592 44177 9010 2208 592 95815 9006 2210 591 95798 9007 2211 591 95813 9033 2184 618
+# 
+name: Select
+type: parsed
+protocol: NECext
+address: 33 00 00 00
+command: 0F F0 00 00
