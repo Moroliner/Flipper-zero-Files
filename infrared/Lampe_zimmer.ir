@@ -1,0 +1,44 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Lampe_aus
+type: parsed
+protocol: NEC
+address: 80 00 00 00
+command: 12 00 00 00
+# 
+name: Lampe_an
+type: parsed
+protocol: NEC
+address: 80 00 00 00
+command: 1E 00 00 00
+# 
+name: Rot
+type: parsed
+protocol: NEC
+address: 80 00 00 00
+command: 01 00 00 00
+# 
+name: Blau
+type: parsed
+protocol: NEC
+address: 80 00 00 00
+command: 08 00 00 00
+# 
+name: Green
+type: parsed
+protocol: NEC
+address: 80 00 00 00
+command: 02 00 00 00
+# 
+name: Dimm
+type: parsed
+protocol: NEC
+address: 80 00 00 00
+command: 0A 00 00 00
+# 
+name: Bright
+type: parsed
+protocol: NEC
+address: 80 00 00 00
+command: 1F 00 00 00

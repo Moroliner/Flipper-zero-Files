@@ -1,0 +1,50 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Pana_aus
+type: parsed
+protocol: RC5
+address: 08 00 00 00
+command: 0C 00 00 00
+# 
+name: Up
+type: parsed
+protocol: RC5X
+address: 08 00 00 00
+command: 10 00 00 00
+# 
+name: Down
+type: parsed
+protocol: RC5X
+address: 08 00 00 00
+command: 11 00 00 00
+# 
+name: Ok
+type: parsed
+protocol: RC5X
+address: 08 00 00 00
+command: 17 00 00 00
+# 
+name: Mute
+type: parsed
+protocol: RC5
+address: 08 00 00 00
+command: 0D 00 00 00
+# 
+name: Back
+type: parsed
+protocol: RC5
+address: 08 00 00 00
+command: 22 00 00 00
+# 
+name: Vol_up
+type: parsed
+protocol: RC5
+address: 08 00 00 00
+command: 10 00 00 00
+# 
+name: Vol_down
+type: parsed
+protocol: RC5
+address: 08 00 00 00
+command: 11 00 00 00
