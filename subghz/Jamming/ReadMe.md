@@ -5,12 +5,6 @@ Files are UNTESTED and may cause magic smoke. Generated with a HackRF and record
 
 -----
 
-**NOTE: Files have been removed because people can't be trusted. This is why we can't have nice things.**<br>
-If you hunt for them, they should not be too difficult to find. (Discord is where they were found...)<br>
-Direct messaging me and asking for them will result in being ignored at best or blocked at worst. =)
-
------
-
 ## United States
 
 The use of a phone jammer, GPS blocker, or other signal jamming device designed to intentionally block, jam, or interfere with authorized radio communications is a violation of federal law.  There are no exemptions for use within a business, classroom, residence, or vehicle. Local law enforcement agencies do not have independent authority to use jamming equipment; in certain limited exceptions use by Federal law enforcement agencies is authorized in accordance with applicable statutes.
